@@ -44,3 +44,11 @@ module tb_top ();
 	end
 endmodule
 
+fork
+	// Thread 1
+	// Thread 2
+	// ...
+	// Thread 3
+join
+
+
